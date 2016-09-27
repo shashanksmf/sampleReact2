@@ -1,0 +1,10 @@
+When admin clicks on ColumnName 
+
+When admin creates a new coulmn..we add the columnName and there is little checkbox andyou click the checkbox Then you have a new section modal opens Up..the modal can take tiny button add coulmn it gives yoou dropdown that are already there on the table..then admin will select one of column from dropdown..
+
+
+columnA - CoulmnB
+ColumnA === ''
+
+Logic:boolean
+LogicContent:Operation
